@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HfmCompressCPro", "HfmCompressCPro\HfmCompressCPro.vcxproj", "{D8C79C63-FD03-419E-8D56-DC01F2B1944D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8C79C63-FD03-419E-8D56-DC01F2B1944D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D8C79C63-FD03-419E-8D56-DC01F2B1944D}.Debug|Win32.Build.0 = Debug|Win32
+		{D8C79C63-FD03-419E-8D56-DC01F2B1944D}.Release|Win32.ActiveCfg = Release|Win32
+		{D8C79C63-FD03-419E-8D56-DC01F2B1944D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
